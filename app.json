@@ -1,0 +1,30 @@
+{
+  "name": "AI-Powered Municipal Solid Waste & Circular Economy Platform",
+  "version": "1.0.0",
+  "description": "AI-powered platform for intelligent municipal solid waste management and circular economy analytics.",
+  "project_type": "AI Agent",
+  "domain": "Urban Waste Management",
+  "technology": [
+    "Python",
+    "Flask",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "SQLite",
+    "IBM Granite",
+    "watsonx.ai"
+  ],
+  "features": [
+    "Solid waste management analysis",
+    "Waste collection optimization",
+    "Circular economy analytics",
+    "AI-based recommendations"
+  ],
+  "ai_model": {
+    "provider": "IBM",
+    "model": "IBM Granite",
+    "platform": "watsonx.ai"
+  },
+  "status": "Development"
+}
