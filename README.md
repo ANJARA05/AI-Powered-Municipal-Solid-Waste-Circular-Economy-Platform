@@ -28,5 +28,30 @@ The **AI-Powered Municipal Solid Waste & Circular Economy Platform** is a web-ba
 
 ---
 
-## Project Structure
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.13+
+- pip
+- Virtual Environment
+
+ Installation
+
+Project Features
+Solid waste management analysis
+Waste collection optimization
+Circular economy analytics
+AI-based recommendations using IBM Granite
+AI Technology
+
+This project uses:
+
+IBM Granite AI Model
+watsonx.ai Platform
+Agentic AI approach
+
 
